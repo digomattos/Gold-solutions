@@ -1,3 +1,6 @@
+#Participantes: Rodrigo
+
+
 exemplos = [
     (3500, "Barbosa Iron"),
     (10000, "Dona Maria Ferro"),
